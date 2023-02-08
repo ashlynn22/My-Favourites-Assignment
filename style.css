@@ -1,0 +1,52 @@
+html {
+  background-color: rgb(199, 199, 235);
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 20px;
+}
+
+body {
+  border-style: outset;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 10px;
+  border-color: rgb(93, 106, 218);
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.colour1 {
+  color: rgb(31, 45, 175);
+}
+
+.colour2 {
+  color: rgb(133, 26, 118);
+}
+
+.colour3 {
+  color: rgb(32, 173, 103);
+}
+
+.colour4 {
+  color: rgb(221, 61, 208);
+}
+
+.center {
+  text-align: center;
+}
+
+a:hover {
+  font-style: italic;
+}
+
+a:hover {
+  color: navy;
+}
